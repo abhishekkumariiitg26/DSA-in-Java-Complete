@@ -1,7 +1,5 @@
-import java.util.*;
-
-class helloworld{
+public class helloworld{
     public static void main(String [] args){
-        System.out.println("hello world! bhaisahab");
-    }    
+        System.out.println("hello world !");
+    }
 }
